@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 8395312076961693517}
   - component: {fileID: 8429567232839251743}
   - component: {fileID: 8421628938475065431}
+  - component: {fileID: -3731606437020025046}
   m_Layer: 0
   m_Name: FL_Wheel
   m_TagString: Untagged
@@ -84,3 +85,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &-3731606437020025046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8397130837300055011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 785271ca1e26bb4448b0b29347038692, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 0
+  cost: 0

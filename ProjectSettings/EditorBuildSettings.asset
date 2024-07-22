@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: f61d6f5ef97d5854a969531bfd995ed8
+  - enabled: 1
+    path: Assets/Scenes/garage.unity
+    guid: 8a93951cf35d54f4885ba4b54603aaaf
+  - enabled: 1
+    path: Assets/Scenes/level.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/carshop.unity
+    guid: a41cc9741700a8e4a8775aacbf289099
+  - enabled: 1
+    path: Assets/Scenes/lobby.unity
+    guid: 7cf00a2ab04ba8a48ba3868d60f14d4d
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 18f7008fb8c2ae64a9911a25dcc29f6d
+  - enabled: 1
+    path: Assets/Scenes/levelselect.unity
+    guid: fc513d186ec73c64aaef3b644aec985d
+  - enabled: 1
+    path: Assets/Scenes/settings.unity
+    guid: fb02225fbfe110446aad213854746e65
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 5ec3f78d286f94648b2bb626a3c521a2
+  - enabled: 1
+    path: Assets/Scenes/buycash.unity
+    guid: 025e0eda7ecd79e48b6fd576cb0eadad
   m_configObjects: {}
